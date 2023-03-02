@@ -1,0 +1,9 @@
+python==3.10
+duckdb==0.7.1
+pandas==1.5.3
+polars==0.16.9
+ipykernel==6.21.2
+line-profiler==4.0.2
+pyarrow==11.0.0
+fastparquet==2023.2.0
+s3fs==2023.1.0
